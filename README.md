@@ -1,2 +1,2 @@
 # subha
-<h1 style="color:red;">Author-Subhajit</h1>
+<h1 style="color:red;">Author-Subhat</h1>
